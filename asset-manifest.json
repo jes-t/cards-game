@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cards-game/static/css/main.6cad1520.chunk.css",
+    "main.js": "/cards-game/static/js/main.96630d57.chunk.js",
+    "main.js.map": "/cards-game/static/js/main.96630d57.chunk.js.map",
+    "runtime-main.js": "/cards-game/static/js/runtime-main.ac2cdcdb.js",
+    "runtime-main.js.map": "/cards-game/static/js/runtime-main.ac2cdcdb.js.map",
+    "static/js/2.42841f69.chunk.js": "/cards-game/static/js/2.42841f69.chunk.js",
+    "static/js/2.42841f69.chunk.js.map": "/cards-game/static/js/2.42841f69.chunk.js.map",
+    "index.html": "/cards-game/index.html",
+    "static/css/main.6cad1520.chunk.css.map": "/cards-game/static/css/main.6cad1520.chunk.css.map",
+    "static/js/2.42841f69.chunk.js.LICENSE.txt": "/cards-game/static/js/2.42841f69.chunk.js.LICENSE.txt",
+    "static/media/cheetah.2ec251d4.png": "/cards-game/static/media/cheetah.2ec251d4.png",
+    "static/media/deer.49a8ac49.png": "/cards-game/static/media/deer.49a8ac49.png",
+    "static/media/dog.e653873f.png": "/cards-game/static/media/dog.e653873f.png",
+    "static/media/forest.0acc94c7.png": "/cards-game/static/media/forest.0acc94c7.png",
+    "static/media/fox.c69b2a0d.png": "/cards-game/static/media/fox.c69b2a0d.png",
+    "static/media/lion.86cb3e30.png": "/cards-game/static/media/lion.86cb3e30.png",
+    "static/media/redPanda.0fc7be96.png": "/cards-game/static/media/redPanda.0fc7be96.png",
+    "static/media/spinner.a1a99674.gif": "/cards-game/static/media/spinner.a1a99674.gif",
+    "static/media/wolf.e969a1fb.png": "/cards-game/static/media/wolf.e969a1fb.png",
+    "static/media/yalk.44bbe806.png": "/cards-game/static/media/yalk.44bbe806.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac2cdcdb.js",
+    "static/js/2.42841f69.chunk.js",
+    "static/css/main.6cad1520.chunk.css",
+    "static/js/main.96630d57.chunk.js"
+  ]
+}
